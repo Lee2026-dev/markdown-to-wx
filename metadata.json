@@ -1,0 +1,5 @@
+{
+  "name": "WeChat Markdown Editor",
+  "description": "A tool to convert Markdown to WeChat Official Account compatible HTML with customizable styles.",
+  "requestFramePermissions": []
+}
